@@ -11,7 +11,7 @@
 	</page_setting>
 	<category_index>0</category_index>
 	<zoom>1.0</zoom>
-	<x>269</x>
+	<x>299</x>
 	<y>0</y>
 	<default_color>
 		<r>128</r>
@@ -138,7 +138,7 @@
 			</connections>
 			<display>false</display>
 			<creation_date>2015-12-08 16:18:13</creation_date>
-			<updated_date>2015-12-09 10:02:19</updated_date>
+			<updated_date>2015-12-09 10:04:02</updated_date>
 			<model_property>
 				<name>プロジェクト名</name>
 				<value></value>
@@ -1801,7 +1801,7 @@
 			<connections>
 			</connections>
 			<physical_name>ARTICLES</physical_name>
-			<logical_name>新規テーブル</logical_name>
+			<logical_name>記事表</logical_name>
 			<description></description>
 			<constraint></constraint>
 			<primary_key_name></primary_key_name>
